@@ -1,0 +1,40 @@
+{
+  "name": "pdf-helper-chatbot",
+  "version": "1.0.0",
+  "description": "A React component for PDF text extraction and interaction",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [
+    "react",
+    "pdf",
+    "extraction",
+    "text",
+    "chatbot",
+    "nextjs"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^3.5.1",
+    "next": "^14.0.0",
+    "pdf-parse": "^1.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/formidable": "^2.0.6",
+    "@types/node": "^20.8.9",
+    "@types/react": "^18.2.33",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.52.0",
+    "eslint-config-next": "^14.0.0",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.5",
+    "typescript": "^5.2.2"
+  }
+}
